@@ -11,7 +11,7 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
 
 
-## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
+<--## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)--/>
 
 
 ## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
